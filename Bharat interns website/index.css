@@ -1,0 +1,43 @@
+.container{
+    
+    background-color: rgba(0, 0, 0, 0.4);
+   
+  width: 50%;
+ 
+  
+  display: flex;
+  flex-direction: column;
+ 
+ 
+  align-items: center;
+  position: relative;
+  top: 38vh;
+  right: -28%;
+}
+.digc{
+    margin-bottom: 12px;
+}
+.digf{
+    margin-bottom: 12px;
+}
+.digk{
+    margin-bottom: 12px;
+   
+}
+body{
+    background-image: url('temping.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    font-size: 41px;
+    font-style: italic;
+    color: yellow;
+}
+.btn{
+    background-color: yellow;
+  border: 1px; ;
+  border-radius: 8px;
+  margin-bottom: 11px;
+
+}
